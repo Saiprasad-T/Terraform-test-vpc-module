@@ -1,5 +1,5 @@
 module "ec2" {
-    source = "../ec2/module-practice"
+    source = "../module-practice/ec2"
     project = "roboshop"
     environment = "dev"
     
