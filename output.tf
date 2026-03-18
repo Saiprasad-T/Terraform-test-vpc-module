@@ -1,3 +1,3 @@
-output "az_info" {
+/* output "az_info" {
     value = module.vpc.az_list
-}
+} */
